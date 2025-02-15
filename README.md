@@ -1,12 +1,22 @@
-# Recipe Page Project
+# HTML Projects
 
-This is a simple HTML page showcasing a buttermilk recipe.
+This repository contains two HTML projects created for FreeCodeCamp:
 
-## Files
-- `recipe_page.html`: Contains the HTML structure for the recipe page
-- `buttermilk.jpg`: Image of the buttermilk recipe
+1. **Recipe Page**
+   - A simple recipe page for making buttermilk
+   - Features ingredients and instructions
+   - Includes an image of the final product
 
-## How to Use
-1. Open `recipe_page.html` in a web browser to view the recipe.
-2. The image is referenced using a relative path, so it should display correctly when served from a static server.
-3. The recipe is displayed in a simple format with ingredients and instructions.
+2. **Travel Agency Page**
+   - A travel agency landing page
+   - Showcases travel packages and top itineraries
+   - Includes images of popular destinations
+
+## Usage
+Open the HTML files in any modern web browser to view the pages.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
